@@ -9,17 +9,17 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/DevelopersSupportAR/8Ticket.git"
+        "url": "https://github.com/withgex/TicketTool.git"
     },
     "keywords": [
-        "button-tickets"
+        "gextools"
     ],
-    "author": "apidev234",
+    "author": "gextools",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/apidev234/ButtonTickets/issues"
+        "url": "https://github.com/withgex/TicketTool.git"
     },
-    "homepage": "https://github.com/apidev234/ButtonTickets",
+    "homepage": "https://github.com/withgex/TicketTool.git",
     "dependencies": {
         "chalk": "^4.1.1",
         "discord-buttons": "^4.0.0",
