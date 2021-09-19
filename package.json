@@ -1,7 +1,7 @@
 {
     "name": "gextools",
     "version": "1.0.0",
-    "description": "Bot de Tickets con botones / Support: https://linkfly.to/withgex",
+    "description": "Bot de Tickets con botones",
     "main": "./src/index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,17 +9,17 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/withgex/TicketTool.git"
+        "url": "git+https://github.com/DevelopersSupportAR/8Ticket.git"
     },
     "keywords": [
         "button-tickets"
     ],
-    "author": "gextools",
+    "author": "apidev234",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/withgex/TicketTool.git"
+        "url": "https://github.com/apidev234/ButtonTickets/issues"
     },
-    "homepage": "https://github.com/withgex/TicketTool.git",
+    "homepage": "https://github.com/apidev234/ButtonTickets",
     "dependencies": {
         "chalk": "^4.1.1",
         "discord-buttons": "^4.0.0",
