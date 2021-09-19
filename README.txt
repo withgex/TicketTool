@@ -6,11 +6,11 @@
 
 3) Añada el PREFIX que desen ponerle a su bot en SECRETS
 
-<td align="left"><a href="https://cdn.discordapp.com/attachments/870706096560562297/889063778409402398/button1.JPG"><img src="https://cdn.discordapp.com/attachments/870706096560562297/889063778409402398/button1.JPG" width="100px;" alt=""/><br /><sub><b></b></sub></a><br /><a title=""></a></td>
+<td align="left"><a href="https://cdn.discordapp.com/attachments/870706096560562297/889063778409402398/button1.JPG"><img src="https://cdn.discordapp.com/attachments/870706096560562297/889063778409402398/button1.JPG" width="200px;" alt=""/><br /><sub><b></b></sub></a><br /><a title=""></a></td>
 
 4) Coloca el TOKEN de su bot en SECRETS
 
-<td align="left"><a href="https://cdn.discordapp.com/attachments/870706096560562297/889062243860361226/button.JPG"><img src="https://cdn.discordapp.com/attachments/870706096560562297/889062243860361226/button.JPG" width="100px;" alt=""/><br /><sub><b></b></sub></a><br /><a title=""></a></td>
+<td align="left"><a href="https://cdn.discordapp.com/attachments/870706096560562297/889062243860361226/button.JPG"><img src="https://cdn.discordapp.com/attachments/870706096560562297/889062243860361226/button.JPG" width="200px;" alt=""/><br /><sub><b></b></sub></a><br /><a title=""></a></td>
 
 ## 🌌 Hostear Bot 24/7
 
