@@ -17,7 +17,7 @@
     "author": "apidev234",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/apidev234/ButtonTickets/issues"
+        "url": "https://github.com/withgex/tickettool.git"
     },
     "homepage": "https://github.com/apidev234/ButtonTickets",
     "dependencies": {
