@@ -45,9 +45,8 @@ or run `INSTALL.sh`
 
 <td align="left"><a href="https://cdn.discordapp.com/attachments/870706096560562297/888962279897464913/Captura.JPG"><img src="https://cdn.discordapp.com/attachments/870706096560562297/888962279897464913/Captura.JPG" width="600px;" alt=""/><br /><sub><b></b></sub></a><br /><a title=""></a></td>
 
-13) Una vez copiado el link, [crea](https://uptimerobot.com/) una cuenta en: https://uptimerobot.com/
+13) Una vez copiado el link, [pegalo](https://withgex.wixsite.com/monitor) en Gex UpMonitor
 
-14) Añade un nuevo monitor **HTTP(s)**, y pega el link donde pone **URL (or IP)**
 
 <td align="left"><a href="https://cdn.discordapp.com/attachments/870706096560562297/888963871551913994/monitor.JPG"><img src="https://cdn.discordapp.com/attachments/870706096560562297/888963871551913994/monitor.JPG" width="600px;" alt=""/><br /><sub><b></b></sub></a><br /><a title=""></a></td>
 
